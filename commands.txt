@@ -1,5 +1,6 @@
 git clone "remote path"
 git push orgin branch
 git pull 
+git init
 git add -A 
 git commit -m "message"
