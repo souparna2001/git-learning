@@ -2,3 +2,9 @@ git config --global user.name "your name"
 git config --global user.email "your mail id"
 git list : shows all history
 git branch : list all branches
+git remote add name remote path
+git remote -v
+git remote stash
+git stash pop
+git rebase
+git merge
